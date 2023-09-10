@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Standoff 2 has always been praised for its diverse and well-designed maps, and the addition of Miami in this update is no exception ",
+   "photo1":"https://iili.io/J94oiFa.webp"},
+  {"desc2":"Standoff 2 has consistently pushed the boundaries of what's possible on mobile devices, and this update is no different","photo2":"https://iili.io/J94oscJ.webp"},
+  {"desc3":"Version 0.24.0 introduces enhanced graphics, making the game's environments and character models even more realistic and visually stunning","photo3":"https://iili.io/J94oL8v.webp"},
+  {"desc4":"The user interface (UI) has received a facelift in this update, providing a sleeker and more intuitive experience","photo4":"https://iili.io/J94o66g.webp"},
+  {"desc5":"Navigating menus, customizing loadouts, and checking your stats have never been easier","photo5":"https://iili.io/J94oZ9R.webp"},
+  {"descd":"A plethora of new weapons and skins have been added to Standoff 2's already impressive arsenal. Whether you're a fan of sniping, close-quarters combat, or assault rifles, you'll find something to suit your playstyle","photod":"https://iili.io/J94otup.webp"}
    ]
  
 }
